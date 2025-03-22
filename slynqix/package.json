@@ -1,0 +1,15 @@
+{
+    "name": "slynqix",
+    "version": "0.1.0",
+    "private": true,
+    "devDependencies": {
+      "tailwindcss": "^3.4.11",
+      "tailwindcss-animate": "^1.0.7",
+      "postcss": "^8.4.47",
+      "autoprefixer": "^10.4.20"
+    },
+    "scripts": {
+      "tailwind": "npx tailwindcss -i style.css -o dist/style.css --watch",
+      "tailwind:build": "npx tailwindcss -i style.css -o dist/style.css --minify"
+    }
+  }

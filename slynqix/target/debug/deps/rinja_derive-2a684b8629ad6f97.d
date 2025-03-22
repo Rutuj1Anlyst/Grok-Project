@@ -1,0 +1,10 @@
+C:\Users\rutuj\OneDrive\Desktop\Grok Project\slynqix\target\debug\deps\rinja_derive-2a684b8629ad6f97.dll: C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\lib.rs C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\config.rs C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\generator.rs C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\heritage.rs C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\html.rs C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\input.rs
+
+C:\Users\rutuj\OneDrive\Desktop\Grok Project\slynqix\target\debug\deps\rinja_derive-2a684b8629ad6f97.d: C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\lib.rs C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\config.rs C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\generator.rs C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\heritage.rs C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\html.rs C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\input.rs
+
+C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\lib.rs:
+C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\config.rs:
+C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\generator.rs:
+C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\heritage.rs:
+C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\html.rs:
+C:\Users\rutuj\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rinja_derive-0.3.5\src\input.rs:
